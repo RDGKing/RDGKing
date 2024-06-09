@@ -21,4 +21,4 @@ Soy un estudiante de Ingeniería en Sistemas Computacionales con un fuerte inter
 
 ## 📫 Contacto
 
-¿Quieres saber más sobre mí o discutir posibles colaboraciones? No dudes en contactarme a través de [arbyking102@gmail.com](mailto:arbyking102@gmail.com).
+¿Quieres saber más sobre mí o discutir posibles colaboraciones? No dudes en contactarme a través de [mi correo.](mailto:arbyking102@gmail.com).
