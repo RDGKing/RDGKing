@@ -9,6 +9,7 @@ Soy un estudiante de Ingeniería en Sistemas Computacionales con un fuerte inter
 ### Lenguajes de Programación
 - **Python** 🐍
 - **Java** ☕
+#### Web
 - **HTML** 🌐
 - **CSS** 🎨
 
