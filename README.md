@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Angel Rodrigo
+# ¡Hola! Soy Angel Rodrigo.
 
 ## 🚀 Sobre mí
 
