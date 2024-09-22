@@ -19,6 +19,7 @@ Soy un estudiante de Ingeniería en Sistemas Computacionales con un fuerte inter
 
 ### Herramientas y Plataformas
 - **Git & GitHub** 🧑‍💻
+- **QGIS** 🌍🗺️
 
 ## 📫 Contacto
 
