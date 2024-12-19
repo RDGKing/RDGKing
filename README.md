@@ -15,7 +15,7 @@ Soy un estudiante de Ingeniería en Sistemas Computacionales con un fuerte inter
 - **CSS** 🎨
 - **JavaScript** 🟨
 - **PHP** 🛠️
-- 
+
 ### Bases de Datos
 - **MySQL** 🗄️
 - **PostgreSQL** 🐘
