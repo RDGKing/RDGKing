@@ -10,7 +10,7 @@ Soy un estudiante de Ingeniería en Sistemas Computacionales con un fuerte inter
 - **Python** 🐍
 - **Java** ☕
 - **JavaScript** 🟨
-- **PHP** 🌐🛠️
+- **PHP** 🛠️
 #### Web
 - **HTML** 🌐
 - **CSS** 🎨
