@@ -22,7 +22,8 @@ Soy un estudiante de Ingeniería en Sistemas Computacionales con un fuerte inter
 
 ### Herramientas y Tecnologías
 - **Git & GitHub** 🧑‍💻  
-- **Power BI** 📊  
+- **Power BI** 📊
+- **Postman** 📬
 - **QGIS** 🌍🗺️
 
 ## 📫 Contacto
